@@ -36,8 +36,8 @@ REDIS_URL = os.getenv("REDIS_URL", "redis://localhost:6379/0")
 #     ) from exc
 
 MOVIES = [
-    {"id": "inception", "title": "Inception", "rows": 5, "seats_per_row": 8},
-    {"id": "dune", "title": "Dune: Part Two", "rows": 4, "seats_per_row": 6},
+    {"id": "game changer", "title": "Game Changer", "rows": 5, "seats_per_row": 8},
+    {"id": "aacharya", "title": "Aacharya", "rows": 4, "seats_per_row": 6},
 ]
 
 
